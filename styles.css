@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    margin: 0;
+    height: 960px;
+}
+.container{
+    display: flex;
+    width:960px;
+    height: 960px;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    background-color: lightgray;
+}
+button{
+    background-color: black;
+    color: white;
+}
